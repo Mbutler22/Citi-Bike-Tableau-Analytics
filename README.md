@@ -29,10 +29,11 @@ The winter were between 7-8a.m. with the vast majority of the users being subscr
 ![Winter Peak Hours ](https://user-images.githubusercontent.com/83027069/137798446-b0972a62-5eea-482d-a590-e56ac0468f18.png)
 
 
+The graph below shows the duration and trip distances by age.   The most amount of riders overall were between the ages of 26 to 50 on the subscriber basis. The 3rd chart concludes that average customers trip distance was 30% higher than the average subscribers distance.  This would conclude that the majority of the daily riders could be tourists, thus having greater mileage on a daily basis.
 
 ![Trip Distance and Duration by age](https://user-images.githubusercontent.com/83027069/137798947-2a79f343-35da-4116-ac74-c10b85b255c5.png)
 
 
 
-![Winter Peak Hours ](https://user-images.githubusercontent.com/83027069/137797794-db99b488-3dfd-439a-9e39-5499d43b7fa7.png)
+
 
