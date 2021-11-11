@@ -12,7 +12,7 @@ I used Python Jupyter Notebook to combine 8 excel files worth of data into 1 eas
 
 ## Analysis
 
-My first anysis was a chart displaying the Average Monthly Number of Trips by Gender.  Overall, female riders were on average the greater amount of users overall with the higher average trip duration.  I can conclude that most of the daily customers did not report gender,  thus we have a greater unknown percentage.   
+My first analysis was a chart displaying the Average Monthly Number of Trips by Gender.  Overall, female riders were on average the greater amount of users overall with the higher average trip duration.  I can conclude that most of the daily customers did not report gender,  thus we have a greater unknown percentage.   
 ![Average Montly Number of Trips by gender](https://user-images.githubusercontent.com/83027069/137793212-cbe529cd-87d1-481e-8ef4-4178071ddb06.png)
 
 
